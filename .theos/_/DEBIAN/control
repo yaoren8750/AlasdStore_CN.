@@ -1,0 +1,8 @@
+Package: com.asdstore.cn
+Name: AlasdStore_CN
+Description: AlasdStore Chinese Translation
+Maintainer: tiantian
+Author: tiantian
+Architecture: iphoneos-arm
+Version: 1.0-14+debug
+Installed-Size: 400

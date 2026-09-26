@@ -1,0 +1,40 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/tiantian/Desktop/汉化源码/AlasdStore_CN./.theos/obj/debug/arm64/AlasdStore_CN.dylib"
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x260 }
+  - { offset: 0x76, size: 0x8, addend: 0x0, symName: '__ZL39_logos_orig$_ungrouped$UILabel$setText$', symObjAddr: 0xEB20, symBinAddr: 0x28170, symSize: 0x0 }
+  - { offset: 0xE2A, size: 0x8, addend: 0x0, symName: '__ZL49_logos_orig$_ungrouped$UILabel$setAttributedText$', symObjAddr: 0xEB28, symBinAddr: 0x28178, symSize: 0x0 }
+  - { offset: 0xE59, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UILabel$setAccessibilityLabel$', symObjAddr: 0xEB30, symBinAddr: 0x28180, symSize: 0x0 }
+  - { offset: 0xE72, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$UIButton$setTitle$forState$', symObjAddr: 0xEB38, symBinAddr: 0x28188, symSize: 0x0 }
+  - { offset: 0x2546, size: 0x8, addend: 0x0, symName: '__ZL43_logos_orig$_ungrouped$UITextField$setText$', symObjAddr: 0xEB40, symBinAddr: 0x28190, symSize: 0x0 }
+  - { offset: 0x26F9, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$UITextField$setPlaceholder$', symObjAddr: 0xEB48, symBinAddr: 0x28198, symSize: 0x0 }
+  - { offset: 0x2712, size: 0x8, addend: 0x0, symName: '__ZL42_logos_orig$_ungrouped$UITextView$setText$', symObjAddr: 0xEB50, symBinAddr: 0x281A0, symSize: 0x0 }
+  - { offset: 0x384E, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$UITextView$setAttributedText$', symObjAddr: 0xEB58, symBinAddr: 0x281A8, symSize: 0x0 }
+  - { offset: 0x387D, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$YTFormattedStringLabel$setText$', symObjAddr: 0xEB60, symBinAddr: 0x281B0, symSize: 0x0 }
+  - { offset: 0x38BC, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$YTFormattedStringLabel$setAttributedText$', symObjAddr: 0xEB68, symBinAddr: 0x281B8, symSize: 0x0 }
+  - { offset: 0x38EB, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$UIView$didMoveToWindow', symObjAddr: 0xEB70, symBinAddr: 0x281C0, symSize: 0x0 }
+  - { offset: 0x391A, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UITableViewCell$layoutSubviews', symObjAddr: 0xEB78, symBinAddr: 0x281C8, symSize: 0x0 }
+  - { offset: 0x3C98, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$UIListContentConfiguration$setText$', symObjAddr: 0xEB80, symBinAddr: 0x281D0, symSize: 0x0 }
+  - { offset: 0x3F0A, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$UIListContentConfiguration$setSecondaryText$', symObjAddr: 0xEB88, symBinAddr: 0x281D8, symSize: 0x0 }
+  - { offset: 0x3F17, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x260 }
+  - { offset: 0x3FB8, size: 0x8, addend: 0x0, symName: '__ZL41_logos_method$_ungrouped$UILabel$setText$P7UILabelP13objc_selectorP8NSString', symObjAddr: 0x260, symBinAddr: 0x4260, symSize: 0xE0 }
+  - { offset: 0x402E, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$UILabel$setAttributedText$P7UILabelP13objc_selectorP18NSAttributedString', symObjAddr: 0x340, symBinAddr: 0x4340, symSize: 0x27C }
+  - { offset: 0x40D7, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UILabel$setAccessibilityLabel$P7UILabelP13objc_selectorP8NSString', symObjAddr: 0x5BC, symBinAddr: 0x45BC, symSize: 0xE0 }
+  - { offset: 0x411B, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIButton$setTitle$forState$P8UIButtonP13objc_selectorP8NSStringm', symObjAddr: 0x69C, symBinAddr: 0x469C, symSize: 0xF0 }
+  - { offset: 0x416D, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$UITextField$setText$P11UITextFieldP13objc_selectorP8NSString', symObjAddr: 0x78C, symBinAddr: 0x478C, symSize: 0xE0 }
+  - { offset: 0x41B1, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UITextField$setPlaceholder$P11UITextFieldP13objc_selectorP8NSString', symObjAddr: 0x86C, symBinAddr: 0x486C, symSize: 0xE0 }
+  - { offset: 0x41F5, size: 0x8, addend: 0x0, symName: '__ZL44_logos_method$_ungrouped$UITextView$setText$P10UITextViewP13objc_selectorP8NSString', symObjAddr: 0x94C, symBinAddr: 0x494C, symSize: 0xE0 }
+  - { offset: 0x4239, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$UITextView$setAttributedText$P10UITextViewP13objc_selectorP18NSAttributedString', symObjAddr: 0xA2C, symBinAddr: 0x4A2C, symSize: 0x348 }
+  - { offset: 0x42CC, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$YTFormattedStringLabel$setText$P22YTFormattedStringLabelP13objc_selectorP8NSString', symObjAddr: 0xD74, symBinAddr: 0x4D74, symSize: 0xE0 }
+  - { offset: 0x4314, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$YTFormattedStringLabel$setAttributedText$P22YTFormattedStringLabelP13objc_selectorP18NSAttributedString', symObjAddr: 0xE54, symBinAddr: 0x4E54, symSize: 0x268 }
+  - { offset: 0x43C5, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$UIView$didMoveToWindowP6UIViewP13objc_selector', symObjAddr: 0x10BC, symBinAddr: 0x50BC, symSize: 0x3E8 }
+  - { offset: 0x4452, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITableViewCell$layoutSubviewsP15UITableViewCellP13objc_selector', symObjAddr: 0x14A4, symBinAddr: 0x54A4, symSize: 0x35C }
+  - { offset: 0x448B, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$UIListContentConfiguration$setText$P26UIListContentConfigurationP13objc_selectorP8NSString', symObjAddr: 0x1800, symBinAddr: 0x5800, symSize: 0xE0 }
+  - { offset: 0x44D3, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$UIListContentConfiguration$setSecondaryText$P26UIListContentConfigurationP13objc_selectorP8NSString', symObjAddr: 0x18E0, symBinAddr: 0x58E0, symSize: 0xE0 }
+  - { offset: 0x451B, size: 0x8, addend: 0x0, symName: __ZL16ASDSafeTranslateP8NSString, symObjAddr: 0x19C0, symBinAddr: 0x59C0, symSize: 0x56C }
+  - { offset: 0x456B, size: 0x8, addend: 0x0, symName: __ZL20ASDDownloadTranslateP8NSString, symObjAddr: 0x1F2C, symBinAddr: 0x5F2C, symSize: 0x140 }
+  - { offset: 0x4597, size: 0x8, addend: 0x0, symName: __ZL13ASDHasChineseP8NSString, symObjAddr: 0x206C, symBinAddr: 0x606C, symSize: 0x130 }
+  - { offset: 0x45F4, size: 0x8, addend: 0x0, symName: _ASDTranslate, symObjAddr: 0x0, symBinAddr: 0x619C, symSize: 0x24C8 }
+  - { offset: 0x4743, size: 0x8, addend: 0x0, symName: _ASDTranslate, symObjAddr: 0x0, symBinAddr: 0x619C, symSize: 0x24C8 }
+...
